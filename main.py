@@ -3,7 +3,7 @@ from time import sleep
 
 import click
 import mss
-from PIL import Image, ImageChops, ImageGrab
+from PIL import Image, ImageChops
 
 
 def difference_percentage(img1, img2):
